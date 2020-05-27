@@ -1,5 +1,5 @@
 Print("Hallo World")
 list = [1,2,3]
-a=2
+a=6
 if a==list[3]:
   print("Both are not equal")
